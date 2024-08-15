@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+hls_prj/
+hls_prj/*
